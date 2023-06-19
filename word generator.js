@@ -1,4 +1,4 @@
-import check-word
+
 var genWordlist = function(n, letters) {
     var results = [];
     var checkWord = require('check-word');
